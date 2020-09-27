@@ -1,0 +1,1 @@
+{"version":3,"sources":["mostafa.scss"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CAI3B,GACE,aAAc,CACd,eAAgB","file":"mostafa.css","sourcesContent":["body{\r\n  background-color: #f6bb12;\r\n\r\n}\r\n\r\nh1{\r\n  color: #27d2b0;\r\n  font-size: 100px;\r\n}"]}
